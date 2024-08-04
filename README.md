@@ -7,3 +7,6 @@
 -> Once the block starts falling we assume that we are given the position of the block with the help of some kind of sensor.
 
 -> OBJECTIVE : The magnetic train must catch the block and then stop.
+
+
+DEPENDENCIES : NumPy, Matplotlib
